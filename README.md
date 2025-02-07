@@ -25,6 +25,6 @@ The **Games Release Calendar** is a tool designed to track upcoming video game r
 Feel free to fork the repository, create an issue, or submit a pull request. Contributions are always welcome!
 
 ## Acknowledgments
-@servetgulnaroglu Thanks for the YouTube tutorial and code that served as the foundation for this project.  
+@	Reza Mehdikhanlou Thanks for the YouTube tutorial and code that served as the foundation for this project.  
 Inspiration from the official Spotify design and user experience.
 
