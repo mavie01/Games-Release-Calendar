@@ -11,3 +11,7 @@ The **Games Release Calendar** is a tool designed to track upcoming video game r
 
 ## Technologies Used
 - **APIs**: IGDB / RAWG API for game data
+- **HTML5**: Structure of the webpage.  
+- **CSS3**: Styling and layout of the webpage.  
+- **JavaScript**: Frontend interactivity and dynamic content.  
+- **Node.js**: If there's any backend logic or server-side integration.  
