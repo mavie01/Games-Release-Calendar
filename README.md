@@ -10,8 +10,21 @@ The **Games Release Calendar** is a tool designed to track upcoming video game r
 -  **Live Updates**: Fetch real-time data from game release APIs (if integrated).
 
 ## Technologies Used
-- **APIs**: IGDB / RAWG API for game data
+- **APIs**: RAWG API for game data
 - **HTML5**: Structure of the webpage.  
 - **CSS3**: Styling and layout of the webpage.  
 - **JavaScript**: Frontend interactivity and dynamic content.  
-- **Node.js**: If there's any backend logic or server-side integration.  
+- **Node.js**: If there's any backend logic or server-side integration.
+
+### Installation Instructions
+## Prerequisites
+- Node.js installed on your machine (for React or Node.js-based apps).  
+- A RAWG Developer account and API credentials (for integration with Spotify).
+
+## Contributing
+Feel free to fork the repository, create an issue, or submit a pull request. Contributions are always welcome!
+
+## Acknowledgments
+@servetgulnaroglu Thanks for the YouTube tutorial and code that served as the foundation for this project.  
+Inspiration from the official Spotify design and user experience.
+
