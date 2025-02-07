@@ -28,6 +28,6 @@ Feel free to fork the repository, create an issue, or submit a pull request. Con
 @Reza Mehdikhanlou Thanks for the YouTube tutorial and code that served as the foundation for this project.  
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. 
 
 
