@@ -26,7 +26,6 @@ Feel free to fork the repository, create an issue, or submit a pull request. Con
 
 ## Acknowledgments
 @Reza Mehdikhanlou Thanks for the YouTube tutorial and code that served as the foundation for this project.  
-Inspiration from the official Spotify design and user experience.
 
 ## License
 This project is licensed under the MIT License.
